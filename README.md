@@ -1,5 +1,3 @@
-# 🩺 Dr. Correo Andrew Hofstad, USN
-
 ### Subject Matter Expert | Clinical Research Scientist | Oncology Physician
 
 [![GitHub Profile](https://shields.io)](https://github.com/Dr-Correo-Hofstad)
