@@ -1,3 +1,5 @@
+# 🩺 Dr. Correo Andrew Hofstad, USN
+
 ### Subject Matter Expert | Clinical Research Scientist | Oncology Physician
 
 [![GitHub Profile](https://shields.io)](https://github.com/Dr-Correo-Hofstad)
@@ -9,8 +11,6 @@
 
 🔬 Molecular Oncology & Virology 🌱 Plant-Based Medical Countermeasures\
 🏥 Academic Curriculum Architecture 🩺 Sports Medicine & Musculoskeletal Care
-
-# 🩺 Dr. Correo Andrew Hofstad, USN
 
 ---
 
