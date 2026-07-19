@@ -1,4 +1,4 @@
-# 🩺 Dr. Correo Andrew Hofstad, USN
+# Dr. Correo Andrew Hofstad, USN
 
 ### Subject Matter Expert | Clinical Research Scientist | Oncology Physician
 
@@ -7,23 +7,23 @@
 
 ---
 
-## 🔬 Core Medical Domains
+## Core Medical Domains
 
-🔬 Molecular Oncology & Virology 🌱 Plant-Based Medical Countermeasures\
-🏥 Academic Curriculum Architecture 🩺 Sports Medicine & Musculoskeletal Care
+Molecular Oncology & Virology Plant-Based Medical Countermeasures\
+Academic Curriculum Architecture Sports Medicine & Musculoskeletal Care
 
 ---
 
-## 🏥 Clinical Leadership & Academic Experience
+## Clinical Leadership & Academic Experience
 
-### 🧬 University of Washington Department of Medicine
+### University of Washington Department of Medicine
 **Subject Matter Expert: [Course Developer & Instructional Designer]** | *06/2025 - Present*
 * **Curriculum Architecture**: Conceptualized, designed, and authored 100% of the foundational lecture materials and syllabi for advanced biochemistry courses (`BIOCHEM 1070` and `BIOCHEM 1090`).
 * **Biomedical Synthesis**: Synthesized complex clinical research, cellular biology data, and virology paradigms into progressive academic modules.
 * **Oncology Integration**: Formulated comprehensive lecture series defining critical biomedical hypotheses, evaluating the mechanical classifications of tumors as parasitic viral vesicles.
 * **Open-Source Delivery**: Developed and deployed all course content and transcripts using Git/GitHub repositories to maximize cross-departmental collaboration.
 
-### 🧪 U.S. Army Medical Research Institute of Chemical Defense (USAMRICD)
+### U.S. Army Medical Research Institute of Chemical Defense (USAMRICD)
 **Commandant | Combat Casualty Care Research Program (CCCRP)** | *05/2023 - Present*
 * **Lípidos**: Developed an FDA-approved, plant-based lipid capsule (sourced from Blue Corn Grit) delivered via catheter to support prostate health and reduce side effects during cancer treatments.
 * **APIS+**: Created a sterile, synthetic alternative to Fresh Frozen Plasma (FFP) for apheresis treatments to eliminate human-to-human contamination risks.
@@ -31,13 +31,13 @@
 * **Hues OS ++**: Formulated a synthetic bone marrow product designed to improve efficacy and lower infection rates in oncology transplants.
 * **Biological Protocol Transformation**: Directed the systematic overhaul of infectious disease research protocols, transitioning frameworks into automated, minimal-intervention Level 4 containment laboratories.
 
-### 🧫 Virus Treatment Centers [VirusTC]
+### Virus Treatment Centers [VirusTC]
 **Founder, Scientist, and Oncology Physician** | *03/2023 - Present*
 * **Clinical Trials & Defense Research**: Directed clinical virology trials managed by USAMRIID and USAMRICD, executing critical government-sponsored research funded by the DoD, U.S. Navy HPSP, and USPHS.
 * **Global Medical Supply**: Developed and distributed FDA-approved branded treatments and clinical catalogs to university medical centers and global pathology/oncology clinics.
 * **Operation Cancer Moonshot**: Scaled clinical operations at the Fred Hutchinson Cancer Center in alignment with federal cancer defense goals.
 
-### 🏈 Seattle Seahawks
+### Seattle Seahawks
 **Orthopedic Recovery Doctor and Concussion Specialist** | *07/2015 - Present*
 * **Nutritional Protocol Design**: Implemented comprehensive, integrative nutritional regimens for elite NFL athletes utilizing pea protein, creatine, and targeted electrolytes to maximize hydration and physical endurance.
 * **Injury Mitigation**: Formulated preventative musculoskeletal care strategies using calcium, magnesium, and collagen for bone density support and joint restoration.
@@ -45,7 +45,7 @@
 
 ---
 
-## 🎓 Higher Medical & Public Health Education
+## Higher Medical & Public Health Education
 
 * **M.D. (Clinician Educator Pathway)** | University of Kansas Medical Center / National Bio and Agro-Defense Facility 
   * *Honors: Magna Cum Laude (GPA: 4.0/4.0)* | *APHIS NBAF Scientist Training Program*
@@ -63,7 +63,7 @@
 
 ---
 
-## 📜 Selected Medical Publications & Congressional Records
+## Selected Medical Publications & Congressional Records
 
 1. **Lowering Healthcare Costs for All Americans: An Examination of Health Insurance Affordability** (2026) | [U.S. House of Representatives Transcript](https://house.gov)
 2. **Examination of the GAO Audit Series of HHS Cybersecurity** (2018) | [House Energy & Commerce Transcript](https://house.gov)
@@ -71,7 +71,7 @@
 
 ---
 
-## 📊 Medical Platform Metrics
+## Medical Platform Metrics
 
 <p align="left">
   <img src="https://vercel.app" alt="GitHub Stats" width="48%"/>
@@ -79,4 +79,4 @@
 </p>
 
 ---
-<p align="center">🔬 <i>"Bridging Clinical Precision with Advanced Bio-Synthesis"</i> 🔬</p>
+<p align="center"><i>"Bridging Clinical Precision with Advanced Bio-Synthesis"</i> 🔬</p>
